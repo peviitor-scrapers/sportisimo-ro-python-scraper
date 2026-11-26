@@ -10,22 +10,15 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR DELEA VECHE, NR.24, MODUL M5+M3.1, BL.CORP A, ET.1 |
 | Website | [https://www.sportisimo.ro](https://www.sportisimo.ro) |
 | Careers | [https://www.ejobs.ro/locuri-de-munca/sportisimo](https://www.ejobs.ro/locuri-de-munca/sportisimo) |
-| Last Scraped | 2026-11-25 |
+| Last Scraped | 2026-11-26 |
 
-## Current Job Listings (7)
+## Current Job Listings (6)
 
-_Generated: 2026-11-25T16:23:50.174201+00:00_
+_Generated: 2026-11-26T15:58:05.657157+00:00_
 
 ### Lucrator Comercial Satu Mare / Floresti
 
 - **URL:** [https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial-satu-mare-floresti/99260669](https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial-satu-mare-floresti/99260669)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Lucrator Comercial Bistrita
-
-- **URL:** [https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial-bistrita/99252231](https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial-bistrita/99252231)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
